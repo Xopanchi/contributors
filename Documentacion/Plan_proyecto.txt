@@ -1,0 +1,3 @@
+﻿Gran trabajo!
+Habría que añadir un diagramilla de Gantt para el proyecto. Estructurada en fases.
+
